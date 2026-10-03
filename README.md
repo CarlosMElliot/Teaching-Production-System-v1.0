@@ -1,4 +1,4 @@
-# Carlos Mercado Teaching Production System v1.0
+# Teaching Production System v1.0
 
 This repository is the persistent source of truth for building Carlos Mercado's Level 13 / IJEP Saturday lesson packages.
 
