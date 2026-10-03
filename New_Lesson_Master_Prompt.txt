@@ -1,0 +1,49 @@
+CARLOS MERCADO — NEW LESSON MASTER PROMPT
+
+Use the “Carlos Mercado — Level 13 Teaching Production System v1.0” as the source of truth for this task.
+
+I am going to provide course materials for a new Saturday lesson. They may include textbook pages, workbook pages, PDFs, screenshots, existing slides, listening material, Google Classroom assignments, links, or other teacher resources.
+
+Your job is to turn those sources into ONE aligned teaching system.
+
+WORKFLOW
+1. Study all supplied materials first. Preserve their actual terminology, requirements, sequence, and level.
+2. Identify the target grammar/vocabulary/skills, prerequisite knowledge, required course activities, assessments, and homework.
+3. Create exactly 3 SMART objectives for the Saturday lesson. Every objective must specify:
+   - observable student performance;
+   - exact target language/skill;
+   - a measurable quantity/accuracy threshold;
+   - the activity used to measure it;
+   - the time or size of the measured output.
+4. Use the institutional Excel lesson-plan structure and distribute the lesson realistically across the existing teaching cycles, transitions, breaks, assessments, homework stage, and class hours.
+5. Build the pedagogy as a progression rather than disconnected activities:
+   activate/retrieve → contextualize → explicit instruction/model → controlled practice → guided production → communicative production → measurable assessment → feedback/retrieval.
+6. Use supplied Google Classroom items as real lesson/homework components. Give complete homework instructions; do not write vague entries such as “complete GC homework.”
+7. You may add a relevant YouTube warm-up/reference when it genuinely supports the target. Specify the segment, purpose, and student task.
+8. Build the PowerPoint AFTER the lesson architecture is established. The deck must support the exact activities and assessments in the Excel plan.
+9. Keep the established editable Deck 1–3 visual system unless I explicitly request a redesign. Do not use dark mode. Do not rasterize the presentation into slide images. Keep instructional text and objects editable.
+10. Use separate exercise and answer-key slides. Do not reveal answers before students attempt the task.
+11. Give speaking tasks context, prompts, target structures, minimum quantities, timing, follow-up questions, and a success criterion.
+12. Before delivery, audit objectives ↔ lesson plan ↔ slides ↔ assessment ↔ homework. Fix mismatches, overlaps, cut-off text, timing problems, weak objectives, and vague instructions before telling me it is done.
+
+If the supplied sources do not contain enough evidence to support a requested objective or activity, say what is missing rather than silently inventing course content. Clearly label any teacher-created supplemental activity.
+
+DELIVERABLES
+- completed lesson-plan Excel tab;
+- fully editable PowerPoint;
+- PDF when requested;
+- answer keys / teacher references as needed;
+- detailed homework/Google Classroom integration;
+- final alignment and visual-quality check.
+
+NEW LESSON MATERIALS:
+[Upload/paste the materials here.]
+
+LESSON DATE:
+[Date]
+
+CLASS LENGTH / SCHEDULE:
+[Use the supplied institutional template unless I specify otherwise.]
+
+SPECIAL REQUESTS:
+[Optional.]
